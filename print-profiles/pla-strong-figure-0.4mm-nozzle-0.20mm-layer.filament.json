@@ -1,0 +1,17 @@
+{
+    "compatible_printers": [
+        "Bambu Lab P2S 0.4 nozzle"
+    ],
+    "nozzle_temperature": [
+        "230",
+        "230",
+        "230"
+    ],
+    "filament_settings_id": [
+        "PLA Strong Figure – 0.4 mm nozzle, 0.20 mm layer"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL P2S",
+    "name": "PLA Strong Figure – 0.4 mm nozzle, 0.20 mm layer",
+    "version": "02.08.00.06"
+}
