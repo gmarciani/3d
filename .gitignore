@@ -1,0 +1,13 @@
+# Generic
+.ignore
+.DS_Store
+
+# IntelliJ
+.idea
+*.iml
+
+# AI
+.superpowers/
+
+# Models
+third-party-models/*
